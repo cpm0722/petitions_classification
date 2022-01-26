@@ -1,5 +1,3 @@
-## petitions classification
-
 #### 청와대 국민 청원 classification model
 
 - kobert 기반
